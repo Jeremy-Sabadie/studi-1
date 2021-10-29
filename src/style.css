@@ -1,0 +1,10 @@
+.perso-text{
+    font-size: 1,6em;
+    line-height: 1,2em;
+    font-family: Josefin+Sans Arial, Helvetica, sans-serif;
+}
+@media screen and (max-width: 420px) {
+    .perso-text{
+        font-size: 1,5em;
+        line-height: 1,2em;
+        
