@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* début du style de la page index.html */
 *,
 ::before,
@@ -81,3 +82,16 @@ h3{
 /*fin du style de la page actions*/
 
 
+=======
+/* style de la page event-nat.html */
+.perso-text{
+    font-size: 1,6em;
+    line-height: 1,2em;
+    font-family: Josefin+Sans Arial, Helvetica, sans-serif;
+}
+@media screen and (max-width: 420px) {
+    .perso-text{
+        font-size: 1,5em;
+        line-height: 1,2em;
+        
+>>>>>>> event
